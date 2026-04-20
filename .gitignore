@@ -1,0 +1,14 @@
+# Unreal Engine Ignore List
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Content/
+Config/
+.vscode/
+.vs/
+*.sln
+*.sdf
+*.suo
+*.xcworkspace
